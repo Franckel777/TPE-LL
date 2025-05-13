@@ -1,0 +1,6 @@
+ul li::before{
+    content: "➡️";
+}
+ul{
+    list-style-type: none;
+}
